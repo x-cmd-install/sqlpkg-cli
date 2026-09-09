@@ -7,7 +7,7 @@ SQLite package manager
 - **Latest release**: `v0.3.0` (2025-05-05)
 - **Last commit**: 2026-02-04
 - **License**: MIT
-- **Stars**: 261 · **Forks**: 6 · **Open issues**: 21 · **Contributors**: 1
+- **Stars**: 260 · **Forks**: 6 · **Open issues**: 21 · **Contributors**: 1
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/sqlpkg-cli> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:50:07Z._
+_Last regenerated: 2026-09-09T18:53:21Z._
