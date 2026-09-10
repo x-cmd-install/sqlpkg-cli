@@ -1,24 +1,67 @@
 # sqlpkg-cli
 
+[中文版本](./README.cn.md)
+
+> ⚠️ This project is archived.
+
 SQLite package manager
 
-- **Upstream**: <https://github.com/nalgeon/sqlpkg-cli>
-- **Homepage**: <https://sqlpkg.org>
-- **Latest release**: `v0.3.0` (2025-05-05)
-- **Last commit**: 2026-02-04
-- **License**: MIT
-- **Stars**: 260 · **Forks**: 6 · **Open issues**: 21 · **Contributors**: 1
+![sqlpkg-cli](https://repo.x-cmd.io/sqlpkg-cli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install sqlpkg-cli
 ```
 
-See <https://x-cmd.com/install/sqlpkg-cli> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/nalgeon/sqlpkg-cli>
+- **Homepage**: <https://sqlpkg.org>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:53:21Z._
+- **Latest**: `v0.3.0` (2025-05-05)
+- **Last commit**: 2026-02-04
+- **Assets in release**: 7
+- **Published**: 2025-05-05T04:49:53Z
+
+## Popularity
+
+- **Stars**: 260 · **Forks**: 6 · **Open issues**: 21 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 7 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 21 · **Open issues**: 0 · **Commits**: 87
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+## Code size
+
+Total: **5,375** lines of code across **77** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 5,076 | 260 | 714 | 58 |
+| Json | 250 | 0 | 0 | 16 |
+| Ruby | 38 | 3 | 5 | 1 |
+| Makefile | 11 | 0 | 3 | 1 |
+| Markdown | 0 | 156 | 80 | 1 |
+
+## Improve this data
+
+Install metadata for sqlpkg-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sqlpkg-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sqlpkg-cli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:28Z._
