@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:56:24Z
+  collectedAt: 2026-09-10T16:41:42Z
 timeline:
   created: 2023-07-01
   lastCommit: 2026-02-04
@@ -85,7 +85,7 @@ total:
   commit: 87
 ---
 path: /home/runner/.x-repo/github.com/nalgeon/sqlpkg-cli
-collectedAt: 2026-09-10T04:56:25Z
+collectedAt: 2026-09-10T16:41:45Z
 loc:
   Go:
     code: 5076
