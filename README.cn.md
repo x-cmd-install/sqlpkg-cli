@@ -6,7 +6,7 @@
 
 SQLite package manager
 
-![sqlpkg-cli](https://repo.x-cmd.io/sqlpkg-cli.svg)
+![sqlpkg-cli](https://repo.x-cmd.io/sqlpkg-cli.svg?lang=zh)
 
 ## 安装
 
@@ -25,7 +25,18 @@ x install sqlpkg-cli
 - **最新版本**: `v0.3.0` (2025-05-05)
 - **最近提交**: 2026-02-04
 - **Release 含资产**: 7 个
-- **发布时间**: 2025-05-05T04:49:53Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [sqlpkg-cli_0.3.0_checksums.txt](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_checksums.txt) | 618 B | `other` |
+| [sqlpkg-cli_0.3.0_darwin_amd64.tar.gz](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_darwin_amd64.tar.gz) | 2.7 MiB | `native/darwin/x64` |
+| [sqlpkg-cli_0.3.0_darwin_arm64.tar.gz](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_darwin_arm64.tar.gz) | 2.5 MiB | `native/darwin/arm64` |
+| [sqlpkg-cli_0.3.0_linux_amd64.tar.gz](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_linux_amd64.tar.gz) | 2.6 MiB | `native/linux/x64` |
+| [sqlpkg-cli_0.3.0_linux_arm64.tar.gz](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_linux_arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [sqlpkg-cli_0.3.0_windows_amd64.tar.gz](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_windows_amd64.tar.gz) | 2.7 MiB | `native/win/x64` |
+| [sqlpkg-cli_0.3.0_windows_arm64.tar.gz](https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_windows_arm64.tar.gz) | 2.4 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -64,4 +75,4 @@ sqlpkg-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:42:00Z._
