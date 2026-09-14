@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2842003,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2025-05-05T04:49:52Z",
       "updated_at": "2025-05-05T04:49:53Z",
       "browser_download_url": "https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2765714,
       "digest": null,
-      "download_count": 2356,
+      "download_count": 2360,
       "created_at": "2025-05-05T04:49:52Z",
       "updated_at": "2025-05-05T04:49:52Z",
       "browser_download_url": "https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2541048,
       "digest": null,
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2025-05-05T04:49:52Z",
       "updated_at": "2025-05-05T04:49:52Z",
       "browser_download_url": "https://github.com/nalgeon/sqlpkg-cli/releases/download/v0.3.0/sqlpkg-cli_0.3.0_linux_arm64.tar.gz"
